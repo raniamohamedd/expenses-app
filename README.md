@@ -1,1 +1,1 @@
-# expenses-app-flutter-
+# expenses-app
